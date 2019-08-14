@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ecommerceoffice_mostpopular",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Mostpopular (most viewed) products for your store",
+    "authors": [
+    {
+        "name": "volgodark",
+        "email": "volgodark@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
