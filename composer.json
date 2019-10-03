@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/ecommerceoffice_mostpopular",
+    "name": "openmage-module-fostering\/ecommerceoffice_mostpopular",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Mostpopular (most viewed) products for your store",
     "authors": [
